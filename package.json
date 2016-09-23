@@ -1,0 +1,26 @@
+{
+  "name": "grigore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kickassshannon/grigore.git"
+  },
+  "keywords": [
+    "orice"
+  ],
+  "author": "eu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kickassshannon/grigore/issues"
+  },
+  "homepage": "https://github.com/kickassshannon/grigore#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
